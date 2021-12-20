@@ -4,7 +4,7 @@
       <carbon-campsite class="inline-block" />
     </p>
     <p>
-      <a rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank">
+      <a rel="noreferrer" href="https://github.com/sv99/vitesse-tailwind" target="_blank">
         Vitesse Tailwind CSS
       </a>
     </p>
