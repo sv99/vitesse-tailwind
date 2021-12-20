@@ -1,0 +1,8 @@
+.DS_Store
+*.local
+dist
+node_modules
+.idea/
+*.log
+tailwind-code.zip
+book_code/
