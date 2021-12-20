@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse Tailwind - Opinionated Vite Starter Template' width='600'/>
+  <img src='screenshot_2021-12-20.png' alt='Vitesse Tailwind - Opinionated Vite Starter Template' width='800'/>
 </p>
 
 <h5 align='center'>
